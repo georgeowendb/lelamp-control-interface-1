@@ -1,0 +1,1 @@
+Make me a virtual environment with the folder name venv. You will need to install the latest python languages in the latest environment and I want you to set it up on my laptop. Make me a game with a 10x10 board that has a marker that I can move on the board with my arrow keys that has to stay within the 10x10
